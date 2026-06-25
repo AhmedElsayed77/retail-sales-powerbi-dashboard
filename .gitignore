@@ -1,0 +1,5 @@
+.DS_Store
+*.tmp
+~$*
+Retail_Dataset.xlsx
+Star_Schema_PowerBI.xlsx

@@ -99,4 +99,4 @@ Avg Basket Value = DIVIDE([Total Sales], [Total Orders])
 
 ---
 
-*Built by Ahmed Elsayed as part of the ROUTE Academy Power BI track.*
+*Built by Ahmed Elsayed | Data & Business Analyst.*

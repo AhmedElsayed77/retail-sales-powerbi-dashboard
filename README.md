@@ -2,7 +2,7 @@
 
 A Power BI dashboard analyzing two years of retail transaction data (2022–2023) across 2,500 households, 92K+ products, and 580+ stores. Built as a guided assignment for ROUTE Academy's Power BI track, using a star-schema data model built entirely in Power Query.
 
-![Dashboard Overview](screenshots/Retail Sales Overview.png)
+![Dashboard Overview](screenshots/Retail_Sales_Overview.png)
 
 ## How to Open
 
